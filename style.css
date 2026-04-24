@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700,900&subset=cyrillic");
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i&subset=cyrillic');
+
+
+*{
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 20px;
+}
+
+header {
+    background-color: rgb(67, 46, 87);
+    padding: 5px;
+    border-radius: 50px;
+    top: 0;
+    position: sticky;
+    display: flex;
+    flex-direction: baseline;
+    align-items: center;
+}
+
+
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(36, 36, 35);
+  color: antiquewhite;
+  padding: 1%;
+  padding-top: 10px;
+}
+
+.logo  {
+  margin-right: auto;
+  padding-left: 30px;
+}
+
+.navigation {
+  display: flex;
+  gap: 15px;
+  transition: all 0.3s ease;
+}
+
+.navigation h2:hover {
+  color: rgb(196, 137, 49); /* Ссылка станет красной */
+}
