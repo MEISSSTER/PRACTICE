@@ -1,0 +1,34 @@
+baseURL = "http://localhost/"
+languageCode = "ru"
+theme = "blowfish"
+
+[params]
+  colorScheme = "gray"
+  defaultAppearance = "dark"
+  autoSwitchAppearance = false
+  showScrollToTop = true
+
+[params.homepage]
+  layout = "hero"
+  showRecentItems = true
+
+[[menus.main]]
+  name = "О проекте"
+  url = "/about/"
+  weight = 10
+
+[[menus.main]]
+  name = "Компоненты"
+  url = "/components/"
+  weight = 20
+
+[[menus.main]]
+    name = "Журнал"
+    url = "/posts/"
+    weight = 20
+
+[[menus.main]]
+    name = "Ресурсы"
+    url = "/resources/"
+    weight = 20
+
