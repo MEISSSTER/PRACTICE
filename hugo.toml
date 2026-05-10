@@ -1,6 +1,8 @@
-baseURL = "http://localhost/"
+baseURL = "http://web-verse.ru/site/"
+title = "NEOPIXEL"
 languageCode = "ru"
 theme = "blowfish"
+
 
 [params]
   colorScheme = "gray"
@@ -8,9 +10,6 @@ theme = "blowfish"
   autoSwitchAppearance = false
   showScrollToTop = true
 
-[params.homepage]
-  layout = "hero"
-  showRecentItems = true
 
 [[menus.main]]
   name = "О проекте"
@@ -31,4 +30,14 @@ theme = "blowfish"
     name = "Ресурсы"
     url = "/resources/"
     weight = 20
+
+[[menus.main]]
+    name = "Участники"
+    url = "/members/"
+    weight = 20
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 

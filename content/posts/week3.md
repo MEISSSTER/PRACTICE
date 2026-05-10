@@ -44,6 +44,12 @@ void motorStep(int steps, bool direction) {
 }
 ```
 
+![NEMA17](/site/img/NEMA17-04-02.png)
+
+![A4988](/site/img/a4988.png)
+
+<video src="/site/vids/video_2026-05-10_21-50-09.mp4" controls width="400"></video>
+
 ---
 
 ## Схема питания
