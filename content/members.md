@@ -9,7 +9,7 @@ description: "Команда проекта Mini Pixel"
 
 ---
 
-<img src="/site/img/Oleg_251-328.jpg" alt="Мейстер Олег" 
+<img src="//img/Oleg_251-328.jpg" alt="Мейстер Олег" 
 style="width:300px; border-radius:12px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);">
 
 
@@ -32,7 +32,7 @@ style="width:300px; border-radius:12px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);"
 
 ---
 
-<img src="/site/img/Nikolay_251-328.jpg" alt="Сетямин" 
+<img src="/img/Nikolay_251-328.jpg" alt="Сетямин" 
 style="width:300px; border-radius:12px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);">
 
 ### Сетямин Николай Сергеевич 251-328
@@ -52,7 +52,7 @@ style="width:300px; border-radius:12px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);"
 
 ---
 
-<img src="/site/img/Kirill_ 231-521.jpg" alt="Рябушкин" 
+<img src="/img/Kirill_ 231-521.jpg" alt="Рябушкин" 
 style="width:300px; border-radius:12px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);">
 
 ### Рябушкин Кирилл Игоревич 231-521
@@ -72,7 +72,7 @@ style="width:300px; border-radius:12px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);"
 
 ---
 
-<img src="/site/img/Nikolay_231-262.jpg" alt="Тютин Н. А." 
+<img src="/img/Nikolay_231-262.jpg" alt="Тютин Н. А." 
 style="width:300px; border-radius:12px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);">
 
 ### Тютин Николай А. 231-262

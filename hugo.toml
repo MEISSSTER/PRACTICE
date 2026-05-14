@@ -1,5 +1,7 @@
-baseURL = "http://web-verse.ru/site/"
+baseURL = "http://web-verse.ru"
 title = "NEOPIXEL"
+logo_image = "/images/NEOPIXEL_LOGO.png"
+use_logo_instead_of_title = true
 languageCode = "ru"
 theme = "blowfish"
 
@@ -10,7 +12,12 @@ theme = "blowfish"
   autoSwitchAppearance = false
   showScrollToTop = true
 
+[params.brand]
+    logo = "site/img/NEOPIXEL_LOGO.png"
 
+[params.header]
+   showLogo = true
+   showTitle = false # Чтобы текст "NEOPIXEL" не накладывался на картинку
 [[menus.main]]
   name = "О проекте"
   url = "/about/"

@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on NEOPIXEL</title>
-    <link>http://web-verse.ru/site/tags/</link>
+    <link>http://web-verse.ru/tags/</link>
     <description>Recent content in Tags on NEOPIXEL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://web-verse.ru/site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://web-verse.ru/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A4988</title>
-      <link>http://web-verse.ru/site/tags/a4988/</link>
+      <link>http://web-verse.ru/tags/a4988/</link>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://web-verse.ru/site/tags/a4988/</guid>
+      <guid>http://web-verse.ru/tags/a4988/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LM2596</title>
-      <link>http://web-verse.ru/site/tags/lm2596/</link>
+      <link>http://web-verse.ru/tags/lm2596/</link>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://web-verse.ru/site/tags/lm2596/</guid>
+      <guid>http://web-verse.ru/tags/lm2596/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Мотор</title>
-      <link>http://web-verse.ru/site/tags/%D0%BC%D0%BE%D1%82%D0%BE%D1%80/</link>
+      <link>http://web-verse.ru/tags/%D0%BC%D0%BE%D1%82%D0%BE%D1%80/</link>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://web-verse.ru/site/tags/%D0%BC%D0%BE%D1%82%D0%BE%D1%80/</guid>
+      <guid>http://web-verse.ru/tags/%D0%BC%D0%BE%D1%82%D0%BE%D1%80/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Питание</title>
-      <link>http://web-verse.ru/site/tags/%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5/</link>
+      <link>http://web-verse.ru/tags/%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5/</link>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://web-verse.ru/site/tags/%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5/</guid>
+      <guid>http://web-verse.ru/tags/%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Реле</title>
-      <link>http://web-verse.ru/site/tags/%D1%80%D0%B5%D0%BB%D0%B5/</link>
+      <link>http://web-verse.ru/tags/%D1%80%D0%B5%D0%BB%D0%B5/</link>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://web-verse.ru/site/tags/%D1%80%D0%B5%D0%BB%D0%B5/</guid>
+      <guid>http://web-verse.ru/tags/%D1%80%D0%B5%D0%BB%D0%B5/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ESP32</title>
-      <link>http://web-verse.ru/site/tags/esp32/</link>
+      <link>http://web-verse.ru/tags/esp32/</link>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://web-verse.ru/site/tags/esp32/</guid>
+      <guid>http://web-verse.ru/tags/esp32/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>SPI</title>
-      <link>http://web-verse.ru/site/tags/spi/</link>
+      <link>http://web-verse.ru/tags/spi/</link>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://web-verse.ru/site/tags/spi/</guid>
+      <guid>http://web-verse.ru/tags/spi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Дисплей</title>
-      <link>http://web-verse.ru/site/tags/%D0%B4%D0%B8%D1%81%D0%BF%D0%BB%D0%B5%D0%B9/</link>
+      <link>http://web-verse.ru/tags/%D0%B4%D0%B8%D1%81%D0%BF%D0%BB%D0%B5%D0%B9/</link>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://web-verse.ru/site/tags/%D0%B4%D0%B8%D1%81%D0%BF%D0%BB%D0%B5%D0%B9/</guid>
+      <guid>http://web-verse.ru/tags/%D0%B4%D0%B8%D1%81%D0%BF%D0%BB%D0%B5%D0%B9/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Прошивка</title>
-      <link>http://web-verse.ru/site/tags/%D0%BF%D1%80%D0%BE%D1%88%D0%B8%D0%B2%D0%BA%D0%B0/</link>
+      <link>http://web-verse.ru/tags/%D0%BF%D1%80%D0%BE%D1%88%D0%B8%D0%B2%D0%BA%D0%B0/</link>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://web-verse.ru/site/tags/%D0%BF%D1%80%D0%BE%D1%88%D0%B8%D0%B2%D0%BA%D0%B0/</guid>
+      <guid>http://web-verse.ru/tags/%D0%BF%D1%80%D0%BE%D1%88%D0%B8%D0%B2%D0%BA%D0%B0/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Компоненты</title>
-      <link>http://web-verse.ru/site/tags/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B/</link>
+      <link>http://web-verse.ru/tags/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B/</link>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://web-verse.ru/site/tags/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B/</guid>
+      <guid>http://web-verse.ru/tags/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Настройка</title>
-      <link>http://web-verse.ru/site/tags/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0/</link>
+      <link>http://web-verse.ru/tags/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0/</link>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://web-verse.ru/site/tags/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0/</guid>
+      <guid>http://web-verse.ru/tags/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Старт</title>
-      <link>http://web-verse.ru/site/tags/%D1%81%D1%82%D0%B0%D1%80%D1%82/</link>
+      <link>http://web-verse.ru/tags/%D1%81%D1%82%D0%B0%D1%80%D1%82/</link>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://web-verse.ru/site/tags/%D1%81%D1%82%D0%B0%D1%80%D1%82/</guid>
+      <guid>http://web-verse.ru/tags/%D1%81%D1%82%D0%B0%D1%80%D1%82/</guid>
       <description></description>
       
     </item>

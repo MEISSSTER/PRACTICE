@@ -12,9 +12,7 @@ showTitle: false
 **Mini Pixel** — учебный инженерный проект, реализуемый в рамках направления **NeoPixel**. Цель — спроектировать и собрать компактный принтер с нуля: от выбора компонентов и написания прошивки до тестирования готового устройства.
 
 ---
-<div style="display: flex; gap: 40px; align-items: flex-start;">
 
-<div style="flex: 2;">
 
 ## Что мы делаем
 
@@ -23,10 +21,11 @@ showTitle: false
 - Выводим интерфейс на два дисплея **ILI9488**
 - Тестируем логическую схему в **Proteus**
 - Управляем питанием через понижающий модуль **LM2596** и реле|
-</div>
-<img src="/site/img/code.png" alt="Исходный код" 
+
+
+<img src="/img/code.png" alt="Исходный код" 
 style="width:300px; border-radius:12px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);">
-</div>
+
 
 ---
 
@@ -40,7 +39,7 @@ style="width:300px; border-radius:12px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);"
 | [Участники](/members/) | Команда проекта |
 | [Ресурсы](/resources/) | Полезные ссылки |
 
-![Команда за работой](/site/img/working.jpg)
+![Команда за работой](/img/working.jpg)
 
 ---
 

@@ -26,7 +26,7 @@ description: "Полезные ссылки и документация по п�
 | Git для Windows | [git-scm.com](https://git-scm.com/install/windows) |
 | Настройка Git + VS Code | [Статья на Habr](https://habr.com/ru/articles/541258/) |
 
-![Инструменты разработки](/site/img/code.png)
+![Инструменты разработки](/img/code.png)
 
 ---
 
