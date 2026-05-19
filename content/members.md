@@ -9,7 +9,7 @@ description: "Команда проекта Mini Pixel"
 
 ---
 
-<img src="//img/Oleg_251-328.jpg" alt="Мейстер Олег" 
+<img src="/img/Oleg_251-328.jpg" alt="Мейстер Олег" 
 style="width:300px; border-radius:12px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);">
 
 
@@ -75,9 +75,9 @@ style="width:300px; border-radius:12px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);"
 <img src="/img/Nikolay_231-262.jpg" alt="Тютин Н. А." 
 style="width:300px; border-radius:12px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);">
 
-### Тютин Николай А. 231-262
+### Тютин Николай Александрович 231-262
 
-**Роль:** 
+**Роль:** 3д моделирование 
 
 **Вклад в проект:**
 
@@ -85,5 +85,6 @@ style="width:300px; border-radius:12px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);"
 - Инвентаризация и составление списка требуемых
 компонентов
 - Помощь в отладке
+- Создание и редактироваине моделей корпуса
 
-**Инструменты:** 
+**Инструменты:**  КОМПАС-3Д
