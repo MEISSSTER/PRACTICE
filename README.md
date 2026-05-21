@@ -59,7 +59,6 @@ PRACTICE/
 | [Git](https://git-scm.com/) | Управление версиями |
 | [GitHub](https://github.com/) | Хостинг репозитория |
 | [Hugo](https://gohugo.io/) | Генератор статического сайта |
-| [Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke) | Тема оформления Hugo |
 | HTML / CSS / JavaScript | Вёрстка и интерактивность |
 | [Nginx](https://nginx.org/) | Веб-сервер для публикации сайта |
 | Markdown | Написание документации |
